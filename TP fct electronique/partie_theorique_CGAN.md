@@ -2,8 +2,7 @@
 
 ## Partie théorique : mathématiques, principe de fonctionnement et étapes du modèle
 
-> **Portée de ce document.** Il décrit *comment le modèle fonctionnera* : les mathématiques de chaque composant et chaque étape qui mène d'une spécification à une architecture d'antennes. Il ne contient ni code, ni résultats d'entraînement. Il sert de base à la construction du modèle.
-
+> **Portée de ce document.** Il décrit *comment le modèle fonctionnera* : les mathématiques de chaque composant et chaque étape qui mène d'une spécification à une architecture d'antennes.
 ---
 
 ## 0. Vue d'ensemble
